@@ -1,0 +1,30 @@
+.back {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 2px solid grey;
+    border-radius: 10px;
+    padding: 20px;
+}
+.design{
+    text-decoration: underline;
+    font-weight: bold;
+    font-style: italic;
+}
+.design2 {
+    text-align: left;
+    padding: 10px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.title {
+    font-weight: bold;
+    font-style: italic;
+}
+.label {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 25px;
+}
+.values {
+    font-weight: bold;
+}
